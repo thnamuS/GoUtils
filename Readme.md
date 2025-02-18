@@ -112,14 +112,6 @@ the above code is just a example usage
 └── tests/
 ```
 
-## 🎯 Motivation
-
-1. Deep understanding of core algorithms
-2. No external dependencies
-3. Full control over implementation
-4. Learning exercise
-5. Customizable for specific needs
-
 ## 🔨 Development Principles
 
 1. Pure Go implementation
