@@ -83,8 +83,8 @@ package main
 
 import (
     "fmt"
-    "github.com/thnamus/goutils/crypto"
-    "github.com/thnamus/goutils/sort"
+    "github.com/thnamuS/goutils/crypto"
+    "github.com/thnamuS/goutils/sort"
 )
 
 func main() {
