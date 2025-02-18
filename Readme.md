@@ -125,7 +125,14 @@ the above code is just a example usage
 - [ ] RSA encryption
 - [ ] More sorting algorithms(thinking to add 2)
 - [ ] Network utilities
-- [ ] Compression algorithms (Wild Toughts in mind)
+- [ ] Compression algorithms (Wild Thoughts in mind)
+- [ ] Chunking utilities
+  - [ ] Vector chunking
+  - [ ] PDF document chunking
+  - [ ] Email (MSG) chunking
+  - [ ] Generic text chunking
+  - [ ] Configurable chunk sizes and overlap
+  - [ ] Metadata preservation
 
 ## 📞 Contact
 
